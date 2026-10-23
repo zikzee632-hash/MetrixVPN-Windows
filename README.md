@@ -15,8 +15,8 @@
 
 <table align="center">
   <tr>
-    <td align="center"><img src="docs/screens/before.png" alt="Before connecting" width="420"><br><sub>Before connecting</sub></td>
-    <td align="center"><img src="docs/screens/after.png" alt="After connecting" width="420"><br><sub>After connecting</sub></td>
+    <td align="center"><img src="docs/screens/before.png" alt="Before connecting" width="420"></td>
+    <td align="center"><img src="docs/screens/after.png" alt="After connecting" width="420"></td>
   </tr>
 </table>
 
