@@ -45,11 +45,15 @@ login follow you between your phone and your PC. Sign in with your email, or wit
 
 ## Install
 
-1. Download **MetRix-VPN-Setup-1.0.0.exe** from the [latest release](../../releases/latest).
+1. Download the installer for your PC from the [latest release](../../releases/latest):
+   - **MetRix-VPN-Setup-1.0.0-x64.exe** - 64-bit Windows (most PCs)
+   - **MetRix-VPN-Setup-1.0.0-ia32.exe** - 32-bit Windows
 2. Run it and accept the administrator prompt once (the VPN needs a small background service to create network adapters).
 3. Open MetRix VPN, sign in, pick a location and press **Connect**.
 
-**Requirements:** Windows 10 or 11, 64-bit.
+**Requirements:** Windows 10 or 11 (64-bit or 32-bit). Not sure which one you have? Open *Settings - System - About* and look at *System type*.
+
+> The 32-bit edition has no OpenVPN engine: OpenVPN UDP locations connect with WireGuard instead. Everything else is identical.
 
 ## Updates
 
