@@ -13,9 +13,12 @@
   <a href="../../releases/latest"><b>Download the installer</b></a>
 </p>
 
-<p align="center">
-  <img src="docs/screens/02-connected.png" alt="MetRix VPN - connected" width="860">
-</p>
+<table align="center">
+  <tr>
+    <td align="center"><img src="docs/screens/before.png" alt="Before connecting" width="420"><br><sub>Before connecting</sub></td>
+    <td align="center"><img src="docs/screens/after.png" alt="After connecting" width="420"><br><sub>After connecting</sub></td>
+  </tr>
+</table>
 
 ## What is MetRix VPN?
 
@@ -33,15 +36,6 @@ login follow you between your phone and your PC. Sign in with your email, or wit
 - **Light, dark and system theme**, a compact docked mode, and a collapsible icon menu.
 - **Automatic updates** from this page - stable releases by default, beta builds if you opt in.
 - **One account everywhere** - Free and Pro plans, device list and usage in the Account page.
-
-## Screenshots
-
-| | |
-|---|---|
-| ![Home](docs/screens/01-home.png) | ![Locations](docs/screens/03-locations.png) |
-| ![Protocols](docs/screens/04-protocol.png) | ![NetGuard](docs/screens/05-netguard.png) |
-| ![Account](docs/screens/06-account.png) | ![Settings](docs/screens/07-settings.png) |
-| ![About](docs/screens/08-about.png) | ![Light theme](docs/screens/09-light.png) |
 
 ## Install
 
